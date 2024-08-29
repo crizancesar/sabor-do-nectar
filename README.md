@@ -1,3 +1,3 @@
-# Projeto INFO 21 Landing Page
+# Projeto Sabor do Néctar
 
-> This repository is the development of the IT company's website: INFO 21 Technical Assistance
+> This repository is the development of the bee honey company's website: Sabor do Néctar
