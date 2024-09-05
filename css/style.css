@@ -6,8 +6,9 @@ body {
     height: 100%;
     font-size: 12px;
     font-family: 'Montserrat';
-    max-width: 1024px;
-    min-width: 640px;
+    width: 100%;
+    max-width: 1280px;
+    min-width: 375px;
     margin: 0 auto;
 }
 
@@ -32,6 +33,7 @@ body {
 
 .header-content-nav {
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
     gap: 2em;
@@ -96,13 +98,14 @@ body {
 
 .content-inicio-img {
     width: 100%;
-    height: 250px;
+    height: 100%;
 }
 
 .section-2 {
-    width: 100%;
+    width: 80%;
     display: flex;
     text-align: center;
+    margin: 0 auto;
 }
 
 .content-2 {
